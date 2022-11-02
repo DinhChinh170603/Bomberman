@@ -1,6 +1,6 @@
 <h1 align="center"> -----💣----- Bomberman Game -----💣----- </h1>
 
-<h2>A. Thông tin nhóm:</h2> 
+<h2>A. Thông tin sinh viên:</h2> 
  
   *	Full name: Lưu Đình Chính  
   *	Major: Science and Technology (CN1) – Class: K66CD  
