@@ -2,11 +2,10 @@
 
 <h2>A. Thông tin nhóm:</h2> 
  
-  * Group: 3  <img align="right" alt="CodingGif" width="300" height="200" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
-  *	Leader: Vũ Ngọc Anh (21020535)
-  *	Member: Lưu Đình Chính (21020288), Nguyễn Thị Ngọc Minh (21020358)
-  *	Major: Information Technology (CN1) – Class: K66CD  
-  *	Email address: 21020535@vnu.edu.vn
+  *	Full name: Lưu Đình Chính  
+  *	Major: Science and Technology (CN1) – Class: K66CD  
+  *	Email address: 21020288@vnu.edu.vn  
+  *	Phone number: 0816086988
   
 <h2>B. Hướng dẫn cài đặt:</h2>
 
